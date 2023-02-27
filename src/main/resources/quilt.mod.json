@@ -19,16 +19,12 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.example_mod.ExampleMod"
+
 		},
 		"depends": [
 			{
 				"id": "quilt_loader",
 				"versions": ">=0.17.6-"
-			},
-			{
-				"id": "quilted_fabric_api",
-				"versions": ">=5.0.0-"
 			},
 			{
 				"id": "minecraft",
